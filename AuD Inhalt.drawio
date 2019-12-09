@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-09T06:17:05.925Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="l2ZsBFH6sEL2z_9d0HaW" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T06:20:10.848Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="Bapjvd1JWivQJZtIso2W" version="12.3.5" type="github" pages="1">
   <diagram id="Wyt8yrSQ3RSMpkzc1AXA" name="Page-1">
-    <mxGraphModel dx="2048" dy="4323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="4153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" value="Inhalte" style="" parent="0"/>
@@ -677,8 +677,14 @@
         <mxCell id="In2b0w2_5TZYF9G1gsUI-130" value="O-Notation&lt;br&gt;Regeln" style="ellipse;html=1;fillColor=#cdeb8b;strokeColor=#36393d;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="840" y="820" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="In2b0w2_5TZYF9G1gsUI-179" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="In2b0w2_5TZYF9G1gsUI-132" target="In2b0w2_5TZYF9G1gsUI-178">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="In2b0w2_5TZYF9G1gsUI-132" value="O-Notation&lt;br&gt;Beispiele" style="ellipse;html=1;fillColor=#cdeb8b;strokeColor=#36393d;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="840" y="920" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="In2b0w2_5TZYF9G1gsUI-178" value="O-Notation&lt;br&gt;Beispiel Münzen" style="ellipse;html=1;fillColor=#cdeb8b;strokeColor=#36393d;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1030" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="In2b0w2_5TZYF9G1gsUI-163" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="In2b0w2_5TZYF9G1gsUI-147" target="In2b0w2_5TZYF9G1gsUI-151">
           <mxGeometry relative="1" as="geometry"/>
@@ -718,6 +724,12 @@
         </mxCell>
         <mxCell id="In2b0w2_5TZYF9G1gsUI-161" value="Beispiel: Tropfen 6" style="ellipse;html=1;fillColor=#ffff88;strokeColor=#36393d;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="1220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="In2b0w2_5TZYF9G1gsUI-177" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3646.465922817758" y="186.2893031063004" as="sourcePoint"/>
+            <mxPoint x="605.2727604891434" y="828.3282183460333" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FTDDd-owseV0-7RKEGn8-1" value="Assigned" style="" parent="0"/>
         <mxCell id="FTDDd-owseV0-7RKEGn8-4" value="Daniel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="FTDDd-owseV0-7RKEGn8-1" vertex="1">
@@ -870,6 +882,9 @@
         <mxCell id="In2b0w2_5TZYF9G1gsUI-169" value="???" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="FTDDd-owseV0-7RKEGn8-1">
           <mxGeometry x="590" y="1260" width="42" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="In2b0w2_5TZYF9G1gsUI-180" value="???" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="FTDDd-owseV0-7RKEGn8-1">
+          <mxGeometry x="940" y="1030" width="42" height="20" as="geometry"/>
+        </mxCell>
         <mxCell id="B_I8aT1JAoUhAAaeeT8g-41" value="Courseware IDs" parent="0"/>
         <mxCell id="B_I8aT1JAoUhAAaeeT8g-44" value="34361" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="B_I8aT1JAoUhAAaeeT8g-41" vertex="1">
           <mxGeometry x="290" y="100" width="40" height="20" as="geometry"/>
@@ -1018,6 +1033,9 @@
         </mxCell>
         <mxCell id="In2b0w2_5TZYF9G1gsUI-175" value="37673" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="B_I8aT1JAoUhAAaeeT8g-41">
           <mxGeometry x="590" y="1280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="In2b0w2_5TZYF9G1gsUI-181" value="37675" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="B_I8aT1JAoUhAAaeeT8g-41">
+          <mxGeometry x="960" y="1050" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
