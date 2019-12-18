@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T14:56:30.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0" etag="5H-BgbMKdGjXZny0bp2X" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-18T15:01:16.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0" etag="uHbtfI1LQYQ0Sgkqn7T1" version="12.4.3" type="github" pages="1">
   <diagram id="Wyt8yrSQ3RSMpkzc1AXA" name="Page-1">
     <mxGraphModel dx="2052" dy="4455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -262,8 +262,8 @@
         <mxCell id="B_I8aT1JAoUhAAaeeT8g-139" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="B_I8aT1JAoUhAAaeeT8g-137" target="B_I8aT1JAoUhAAaeeT8g-109" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="B_I8aT1JAoUhAAaeeT8g-141" value="Boolesche Ausdrücke" style="ellipse;html=1;fillColor=#cdeb8b;strokeColor=#36393d;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="120" width="120" height="50" as="geometry"/>
+        <mxCell id="B_I8aT1JAoUhAAaeeT8g-141" value="&lt;div&gt;Boolesche Ausdrücke&lt;/div&gt;" style="ellipse;html=1;fillColor=#cdeb8b;strokeColor=#36393d;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1790" y="125" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="wF4mP8w9-cqMa2zVFERf-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B_I8aT1JAoUhAAaeeT8g-137" target="wF4mP8w9-cqMa2zVFERf-19" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -784,7 +784,7 @@
           <mxGeometry x="1380" y="220" width="42" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="B_I8aT1JAoUhAAaeeT8g-142" value="???" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="FTDDd-owseV0-7RKEGn8-1" vertex="1">
-          <mxGeometry x="1779" y="150" width="41" height="20" as="geometry"/>
+          <mxGeometry x="1779" y="165" width="41" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="wF4mP8w9-cqMa2zVFERf-8" value="Sven" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="FTDDd-owseV0-7RKEGn8-1" vertex="1">
           <mxGeometry x="420" y="370" width="40" height="20" as="geometry"/>
@@ -941,7 +941,7 @@
           <mxGeometry x="1560.1666666666667" y="160" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="B_I8aT1JAoUhAAaeeT8g-144" value="?????" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="B_I8aT1JAoUhAAaeeT8g-41" vertex="1">
-          <mxGeometry x="1780.6666666666667" y="170" width="40" height="20" as="geometry"/>
+          <mxGeometry x="1780.6666666666667" y="191" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="B_I8aT1JAoUhAAaeeT8g-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="B_I8aT1JAoUhAAaeeT8g-41" source="B_I8aT1JAoUhAAaeeT8g-141" target="B_I8aT1JAoUhAAaeeT8g-94" edge="1">
           <mxGeometry relative="1" as="geometry">
